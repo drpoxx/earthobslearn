@@ -1,1 +1,5 @@
-ECHO is on.
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
