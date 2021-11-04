@@ -3,3 +3,6 @@
 *.jpeg
 *.tif
 *.tiff
+*.h5
+*.pkl
+*.pickle
